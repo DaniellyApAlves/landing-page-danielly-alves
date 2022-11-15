@@ -8,11 +8,15 @@ Antes:
 
 O logo e o hover na navegação era verde e quadrado, fonte Public Sans.
 
+![image-20221115183403076](C:\Users\dany-\AppData\Roaming\Typora\typora-user-images\image-20221115183403076.png)
+
 
 
 Depois:
 
 Alteração do logo, o hover da navegação foi alterado para rosa e circular, também houve a alteração de fonte, nos itens de redes sociais foi linkado para os perfis correspondentes as redes, assim como uma nova abertura de aba para que o site não seja perdido ao clicar.
+
+![image-20221115183620455](C:\Users\dany-\AppData\Roaming\Typora\typora-user-images\image-20221115183620455.png)
 
 
 
